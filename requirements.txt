@@ -1,0 +1,12 @@
+package_name==0.1
+import streamlit 
+import requests
+import json
+import base64
+import io
+import tempfile
+import os
+import google.generativeai 
+import wave
+import time
+import load_dotenv
